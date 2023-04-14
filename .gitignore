@@ -25,3 +25,4 @@ arm_neon.h
 compile_commands.json
 
 cmake/CompilerFlagVariables.cmake
+.ipynb_checkpoints/*
